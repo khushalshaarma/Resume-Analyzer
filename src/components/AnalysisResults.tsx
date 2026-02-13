@@ -453,3 +453,6 @@ export const AnalysisResults = ({ analysis }: AnalysisResultsProps) => {
     </div>
   );
 };
+
+
+# AI appended note: prompt => make the frotend or ui more cool
